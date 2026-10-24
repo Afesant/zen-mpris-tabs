@@ -1,0 +1,4 @@
+{
+  "extName": { "message": "MPRIS por pestaña" },
+  "extDescription": { "message": "Cada pestaña que reproduce audio o vídeo aparece como su propio reproductor MPRIS en Linux (KDE, GNOME, playerctl). Necesita el host nativo de la página del proyecto." }
+}

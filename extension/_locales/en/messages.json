@@ -1,0 +1,4 @@
+{
+  "extName": { "message": "MPRIS per tab" },
+  "extDescription": { "message": "Every tab playing audio or video shows up as its own MPRIS media player on Linux (KDE, GNOME, playerctl). Needs the native host from the project page." }
+}
