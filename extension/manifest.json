@@ -1,9 +1,13 @@
 {
   "manifest_version": 2,
   "name": "__MSG_extName__",
-  "version": "1.3",
+  "version": "1.4",
   "description": "__MSG_extDescription__",
   "default_locale": "en",
+  "icons": {
+    "48": "icons/icon.svg",
+    "96": "icons/icon.svg"
+  },
   "homepage_url": "https://github.com/Afesant/zen-mpris-tabs",
   "browser_specific_settings": {
     "gecko": {

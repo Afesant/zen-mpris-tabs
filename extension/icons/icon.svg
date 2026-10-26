@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="28" fill="#16181d"/>
+  <!-- pestañas: la activa se une a la ventana, las otras quedan detrás -->
+  <rect x="18" y="30" width="34" height="26" rx="7" fill="#e8eaef"/>
+  <rect x="56" y="34" width="25" height="12" rx="5" fill="#6b7180"/>
+  <rect x="85" y="34" width="25" height="12" rx="5" fill="#6b7180"/>
+  <rect x="18" y="46" width="92" height="56" rx="10" fill="#e8eaef"/>
+  <path d="M55 61 L79 74 L55 87z" fill="#16181d" stroke="#16181d" stroke-width="6" stroke-linejoin="round"/>
+</svg>
